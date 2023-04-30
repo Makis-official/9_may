@@ -1,0 +1,274 @@
+
+body
+{
+    margin: 0 auto;
+}
+
+.button-one {
+    box-sizing: border-box;
+    width: 90%;
+    height: 80px;
+    
+    background: #70624B;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    position: relative;
+    display: inline-block;
+    display:block;
+    margin:auto;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.button-strategia
+{
+    float: left;
+    width: 45%;
+    height: 100px;
+    
+    background: #D98F5F;
+    color: white;
+    border-radius: 12px;
+    border: none;
+
+
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-left: 12px;
+}
+
+.logo_SKI
+{
+    margin-top: 4%;
+    max-width: 30%;
+    float: left;
+}
+
+.logo_kon
+{
+    max-width: 25%;
+    float: right;
+}
+
+.mobile
+{
+    max-width: 410px;
+    margin: 0 auto;
+    background-image: url(images/main_bg.svg);
+    background-size: 100%;
+    
+}
+
+.mobile_two
+{
+    max-width: 410px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin-bottom: 80px;
+    
+}
+
+.name
+{
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    padding-top: 220px;
+}
+
+.strategia
+{
+    padding-bottom: 20%;
+    text-align: center;
+    font-size: 17.25px;
+    min-inline-size: 12%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #9C8C6B;
+    margin: 6px auto;
+}
+
+
+.button
+{
+    width: 40%;
+    border-radius: 6px;
+    height: 50px;
+    border: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #710f00;
+    letter-spacing: 0.1em;
+}
+
+
+.niz-knopki
+{
+    display:block; 
+    position: absolute;
+    max-width: 900px;
+    left: 10%;
+    margin: 0 auto;
+    bottom: 15px; 
+    width: 80%; 
+    text-align: center; 
+    z-index: 1;
+}
+
+.manedio
+{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #ffffff;
+    margin: 0 auto;
+    letter-spacing: 0.03em;
+    text-align: center;
+    padding-top: 160px;
+    padding-bottom: 30px;
+}
+
+.manedio_two
+{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #70624B;
+    margin: 0 auto;
+    letter-spacing: 0.03em;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.rrrrrr
+{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #70624B;
+    letter-spacing: 0.03em;
+    text-align: center;
+    margin-top: 450px;
+    padding-bottom: 50px;
+}
+
+a{
+    text-decoration:none;
+    cursor: pointer;
+}
+
+
+.kon_stihia
+{
+    max-width: 90%;
+    display:block; 
+    text-align: center;
+    padding-bottom: 40px;
+    margin: 0 auto;
+}
+
+.start
+{
+    max-width: 90%;
+    text-align: center;
+    margin-left: 17.5px;
+    margin-top: 270px;
+    margin-bottom: 120px;
+}
+
+.strelka_brown
+{
+    width: 15%;
+}
+
+.zaglav_strateg
+{
+    max-width: 35%;
+    text-align: center;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+.dlitelnost
+{
+    padding-left: 5%;
+    color: rgb(226, 226, 226);
+    font-size: 15px;
+    letter-spacing: 0.04em;
+    padding-top: 5px;
+}
+
+.spisok
+{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 12px;
+}
+.spisok_one
+{
+    display: block;
+    margin-top: 60px;
+    max-width: 100%;
+    margin: 0 auto 12px;
+}
+
+.zaglav_img
+{
+    max-width: 100%;
+}
+
+.strelka_white
+{
+    position: absolute;
+    top: 25px;
+    left: 14%;
+    min-width: 5%;
+    max-width: 10%;
+}
+
+.instrukcia
+{
+    max-width: 100%; 
+}
+
+.stancii
+{
+    max-width: 42%; 
+    float:right; 
+    margin-right: 6%;
+}
+
+.description
+{
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+}
+
+
+.button_more_detailed
+{
+    max-width: 90%;
+    margin: 100px auto;
+}
